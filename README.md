@@ -59,12 +59,72 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;A partir do nosso Canvas de Proposta de Valor (CPV), determinamos essencialmente como o nosso produto ou serviço cria valor para os clientes. Isso inclui entender quem são os nossos clientes-alvo, quais são suas necessidades e desejos, e como o produto ou serviço oferecido atende a essas necessidades de uma forma única e convincente. Além disso, o CPV também nos ajuda a identificar como o nosso produto ou serviço se diferencia da concorrência e quais são os principais benefícios percebidos pelos clientes. 
 
-### 3. Análise de Bbenchmarking
+### 3. Análise de Benchmarking
 &nbsp;&nbsp;&nbsp;&nbsp;O objetivo do benchmarking é identificar oportunidades de melhoria, entender onde a organização se posiciona em relação aos concorrentes ou referências do setor e buscar maneiras de implementar mudanças positivas para aumentar a eficiência, qualidade e competitividade.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Considerando a proposta da Thrive, nós realizamos um Benchmarking para identificar os principais pontos com relação a como outras empresas se posicionam no mercado. Nossa análise considerou 8 pontos: Tecnologia Utilizada, Transparência e Prestação de Contas, Acesso Equitativo à Educação, Sustentabilidade Financeira, Segurança de Dados, Impacto Social, Eficiência Operacional e Reputação e Credibilidade. Comparamos a Thrive com a Kiva, ScholarshipOwl, Scholarship America e Stake Together.
+
+**Tecnologia Utilizada:**
+- Thrive: Utiliza blockchain com account abstraction, proporcionando eficiência e segurança.
+- Kiva: Usa uma plataforma online tradicional.
+- ScholarshipOwl: Utiliza uma plataforma online tradicional.
+- Scholarship America: Utiliza plataformas online tradicionais.
+- Stake Together: Utiliza blockchain para facilitar o financiamento coletivo.
+
+**Transparência e Prestação de Contas:**
+- Thrive: Oferece transparência total sobre o uso dos fundos.
+- Kiva: Possui um alto nível de transparência.
+- ScholarshipOwl: Transparência variável dependendo da plataforma específica.
+- Scholarship America: Mantém um alto nível de transparência.
+- Stake Together: Transparência variável dependendo da campanha.
+
+**Acesso Equitativo à Educação:**
+- Thrive: Foca em jovens da periferia.
+- Kiva: Concentra-se principalmente em micro finanças para empreendedores em países em desenvolvimento.
+- ScholarshipOwl: Oferece acesso a bolsas de estudo para uma ampla gama de estudantes.
+- Scholarship America: Oferece uma variedade de programas de bolsas de estudo.
+- Stake Together: Varia dependendo da campanha de financiamento.
+
+**Sustentabilidade Financeira:**
+- Thrive: Implementa staking para doadores pessoa física.
+- Kiva: Depende de financiamento externo.
+- ScholarshipOwl: Depende de receitas geradas pelas taxas dos serviços.
+- Scholarship America: Depende de doações e financiamento externo.
+- Stake Together: Depende do sucesso das campanhas de financiamento coletivo.
+
+**Segurança de Dados:**
+- Thrive: Utiliza tecnologias avançadas como Zero Knowledge para proteger os dados dos alunos.
+- Kiva: Implementa medidas de segurança padrão para proteger os dados dos usuários.
+- ScholarshipOwl: Depende da segurança das plataformas online utilizadas.
+- Scholarship America: Implementa medidas de segurança padrão para proteger os dados dos alunos.
+- Stake Together: Dependente da segurança da blockchain e dos sistemas de pagamento utilizados.
+
+**Impacto Social:**
+- Thrive: Foca em fornecer acesso à educação de qualidade para jovens da periferia.
+- Kiva: Centra-se em fornecer microcréditos para empreendedores em países em desenvolvimento.
+- ScholarshipOwl: Facilita o acesso a bolsas de estudo para estudantes em geral.
+- Scholarship America: Oferece uma variedade de programas de bolsas de estudo.
+- Stake Together: Varia dependendo do propósito das campanhas de financiamento coletivo.
+
+**Eficiência Operacional:**
+- Thrive: Processo automatizado de seleção e alocação de bolsas de estudo e investimentos.
+- Kiva: Depende de agentes locais para facilitar os empréstimos.
+- ScholarshipOwl: Depende de processos manuais para revisar e conceder bolsas de estudo.
+- Scholarship America: Utiliza processos tradicionais de seleção e concessão de bolsas de estudo.
+- Stake Together: Depende da eficácia das campanhas de financiamento coletivo e do suporte fornecido.
+
+**Reputação e Credibilidade:**
+- Thrive: A reputação e credibilidade estão em desenvolvimento.
+- Kiva: Possui uma boa reputação global.
+- ScholarshipOwl: Varia dependendo da experiência do usuário.
+- Scholarship America: Possui uma reputação sólida.
+- Stake Together: Varia dependendo do histórico das campanhas de financiamento e da percepção dos doadores.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Analisando esses pontos, nós conseguimos chegar na tabela a seguir:
 
 <div align="center">
    <img src="assets/analiseBenchMarking.png" width="70%">
 </div>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Considerando a proposta da Thrive, nós realizamos um Benchmarking para identificar os principais pontos com relação a como outras empresas se posicionam no mercado. Nossa análise considerou 8 pontos: Tecnologia Utilizada, Transparência e Prestação de Contas, Acesso Equitativo à Educação, Sustentabilidade Financeira, Segurança de Dados, Impacto Social, Eficiência Operacional e Reputação e Credibilidade. Comparamos a Thrive com a Kiva, ScholarshipOwl, Scholarship America e Stake Together.
+&nbsp;&nbsp;&nbsp;&nbsp;É possível identificar que a Thrive possui uma plataforma mais transparente e segura do que as outras já existentes no mercado, além disso, apresenta uma eficiência operacional maior por ser um processo automatizado. O principal ponto que seria um problema para a Thrive é a falta de reputação e credibilidade, porém ela se sobressai dessa situação ao realizar a parceria com as universidades estabelecendo uma conexão e validando a nossa reputação.
