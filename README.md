@@ -1,7 +1,7 @@
 # Thrive
 
 <div align="center">
-   <img src="assets/thriveArt.webp" width="30%">
+   <img src="assets/thriveArt.png" width="30%">
 </div>
 <br>
 
