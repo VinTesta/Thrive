@@ -1,0 +1,47 @@
+.main {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  h2{
+    margin-top: 8rem;
+    font-size: 2rem;
+  }
+
+  p{
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+    
+  span{
+    font-size: 1.2rem;
+    width: 100%;
+    text-align: center;
+    margin-top: .5rem;
+  }
+
+  button#open, button#alchemy{
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: .5rem 2rem;
+    margin-top: 4rem;
+    border-radius: .25rem;
+    transition: all 0.2s;
+
+    &:hover{
+      transform: scale(1.03);
+    }
+  }
+
+  button#alchemy{
+    margin-top: 1rem;
+    background-color: rgb(245, 90, 12);
+  }
+}
