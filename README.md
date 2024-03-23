@@ -24,7 +24,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Neste contexto global, unindo esforços da comunidade global e o potencial da tecnologia, surgem iniciativas que visam, não apenas fornecer apoio financeiro aos estudantes, mas também promover uma educação mais inclusiva e acessível para todos, independentemente de sua origem ou condição socioeconômica. O que é um avanço significativo em direção à construção de um sistema educacional global mais justo e equitativo.
 
-## Análise de Marcado
+## Análise de Mercado
 
 &nbsp;&nbsp;&nbsp;&nbsp;À partir da análise do problema, valemos-se de algumas ferramentas para identificar o mercado no qual estamos inseridos e, assim, fazer um posicionamento estrátégico, apresentando uma proposta de valor única e etendendo o que nosso cliente realmente precisa. Além disso foi possível entender os riscos e ameaças que estão rodeiam a solução, assim pode-se preparar meelhor para eventualidades. Segue uma descrição de cada uma e seus respectivos templates.
 
