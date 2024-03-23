@@ -60,3 +60,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;A partir do nosso Canvas de Proposta de Valor (CPV), determinamos essencialmente como o nosso produto ou serviço cria valor para os clientes. Isso inclui entender quem são os nossos clientes-alvo, quais são suas necessidades e desejos, e como o produto ou serviço oferecido atende a essas necessidades de uma forma única e convincente. Além disso, o CPV também nos ajuda a identificar como o nosso produto ou serviço se diferencia da concorrência e quais são os principais benefícios percebidos pelos clientes. 
 
 ### 3. Análise de Bbenchmarking
+&nbsp;&nbsp;&nbsp;&nbsp;O objetivo do benchmarking é identificar oportunidades de melhoria, entender onde a organização se posiciona em relação aos concorrentes ou referências do setor e buscar maneiras de implementar mudanças positivas para aumentar a eficiência, qualidade e competitividade.
+
+<div align="center">
+   <img src="assets/analiseBenchMarking.png" width="70%">
+</div>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Considerando a proposta da Thrive, nós realizamos um Benchmarking para identificar os principais pontos com relação a como outras empresas se posicionam no mercado. Nossa análise considerou 8 pontos: Tecnologia Utilizada, Transparência e Prestação de Contas, Acesso Equitativo à Educação, Sustentabilidade Financeira, Segurança de Dados, Impacto Social, Eficiência Operacional e Reputação e Credibilidade. Comparamos a Thrive com a Kiva, ScholarshipOwl, Scholarship America e Stake Together.
