@@ -5,6 +5,7 @@
 </div>
 <br>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;A thrive é uma plataforma que se utiliza da tecnologia account abstraction, na qual as universidades teriam a possibilidade de criar perfis para receberem investimentos destinados a bolsas de estudos. A plataforma possibilita o cadastro de doadores físicos e jurídicos que seriam capazes de direcionar fundos para a universidade que os alocaria da melhor forma para seus alunos de acordo com seu desempenho acadêmico e desenvolvimento de soft skills.
 
 
