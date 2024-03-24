@@ -12,15 +12,19 @@
 
 [1. Cenário Global](#c1)
 
-[2. Análise de Mercado](#c2)
+[2. Problema](#c9)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Análise SWOT](#c3)
+[3. Solução](#c8)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Canvas de Proposta de Valor](#c4)
+[4. Análise de Mercado](#c2)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Análise de Benchmarking](#c5)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.1. Análise SWOT](#c3)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[2.4. Lean Canvas](#c6)
+&nbsp;&nbsp;&nbsp;&nbsp;[4.2. Canvas de Proposta de Valor](#c4)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[4.3. Análise de Benchmarking](#c5)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[4.4. Lean Canvas](#c6)
 
 [Nosso Time](#cx)
 
@@ -40,13 +44,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Neste contexto global, unindo esforços da comunidade global e o potencial da tecnologia, surgem iniciativas que visam, não apenas fornecer apoio financeiro aos estudantes, mas promover uma educação mais inclusiva e acessível para todos, sem depender de sua origem ou condição socioeconômica. O que é um avanço significativo em direção à construção de um sistema educacional global mais justo e equitativo.
 
-## <a name="c2"></a> 2. Análise de Mercado
+## <a name="c9"></a> 2. Problema
+
+## <a name="c8"></a> 3. Solução
+&nbsp;&nbsp;&nbsp;&nbsp;A Thrive é uma plataforma descentralizada que visa abordar os desafios presentes no financiamento estudantil, oferecendo uma solução inovadora baseada na tecnologia blockchain. Ao adotar a blockchain como infraestrutura, é proporcionado um ambiente seguro e transparente para a captação e distribuição de fundos destinados a bolsas de estudo, conectando alunos e doadores por meio de instituições de ensino, que atuam como validadores. Mediante contratos inteligentes, essas instituições podem criar e gerenciar bolsas de estudo personalizadas, adaptadas ao desempenho e necessidades dos alunos.
+
+&nbsp;&nbsp;&nbsp;&nbsp;A utilização de contratos inteligentes nessa plataforma oferece uma maior eficiência nos processos de concessão e acompanhamento de bolsas de estudo. Os alunos podem ser automaticamente vinculados a bolsas de estudo compatíveis com seu perfil acadêmico e financeiro, eliminando burocracias e reduzindo possíveis falhas na comunicação. Além disso, os doadores têm garantias de que seus investimentos serão utilizados de maneira transparente e eficaz, aumentando a confiança e incentivando a participação.
+
+&nbsp;&nbsp;&nbsp;&nbsp;A Thrive promove a inclusão e igualdade no acesso à educação, permitindo que estudantes de todos os perfis socioeconômicos tenham oportunidades iguais de obter financiamento para seus estudos. Através da descentralização proporcionada pela blockchain, a Thrive amplia o alcance das bolsas de estudo, conectando doadores e instituições de ensino em uma rede global. Isso permite uma distribuição mais justa e eficiente dos recursos, garantindo que mais estudantes tenham acesso à educação de qualidade.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Para as instituições de ensino, essa solção representa uma oportunidade única de atrair e reter talentos promissores, ao mesmo tempo em que simplifica e agiliza os processos de concessão de bolsas de estudo, sem perder a qualidade e os critérios adotados. Além disso, a plataforma proporciona maior visibilidade e reconhecimento para as universidades, ao demonstrar seu compromisso com a inclusão e igualdade no acesso à educação. Ao adotar a Thrive, as universidades podem fortalecer sua reputação e atratividade no mercado educacional e, até mesmo, obter renome no mercado de trabalho.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ao unir tecnologia de ponta, transparência e inclusão, a Thrive está transformando a maneira como o financiamento estudantil é realizado. Essa abordagem inovadora não apenas simplifica o processo de concessão de bolsas de estudo, mas capacita estudantes de todo o mundo a perseguirem seus sonhos educacionais, promovendo, deste modo, um impacto positivo duradouro na sociedade e na economia global.
+
+
+
+## <a name="c2"></a> 4. Análise de Mercado
 
 &nbsp;&nbsp;&nbsp;&nbsp;À partir da análise do problema, valemos-se de algumas ferramentas para identificar o mercado no qual estamos inseridos e, assim, fazer um posicionamento estrátégico, apresentando uma proposta de valor única e etendendo o que nosso cliente realmente precisa. Além disso foi possível entender os riscos e ameaças que estão rodeiam a solução, assim pode-se preparar meelhor para eventualidades. Segue uma descrição de cada uma e seus respectivos templates.
 
 
 
-### <a name="c3"></a> 2.1. Análise SWOT
+### <a name="c3"></a> 4.1. Análise SWOT
 &nbsp;&nbsp;&nbsp;&nbsp;A matriz SWOT é uma ferramenta de planejamento estratégico que ajuda as empresas na tomada de decisão. Esta metodologia divide-se em aspectos internos e externos, compreendendo forças (strengths) e fraquezas (weaknesses) para o ambiente interno, e oportunidades (opportunities) e ameaças (threats) para o externo, que têm por objetivo identificar os principais pontos de influência que afetam a empresa para uma clareza melhor de quais são os fatores que estão sob seu controle (internos) e os que não estão (externos).
 
 &nbsp;&nbsp;&nbsp;&nbsp;Os aspectos externos se situam na esfera do que é praticamente incontrolável pela empresa, ao dependerem do meio em que ela está inserida e até mesmo, algumas vezes, do ambiente global. Desse modo, oportunidades são transformações que ocorrem no mercado e podem ser aproveitadas pela empresa pela tomada de um posicionamento mais favorável diante do que está ocorrendo. Em contrapartida, surgem as ameaças, as quais são fatores exógenos que colocam a empresa em uma situação de risco ou proporcionam maiores desafios para um bom desempenho mercantil.
@@ -62,7 +81,7 @@
 
 
 
-### <a name="c4"></a> 2.2. Canvas de Proposta de Valor
+### <a name="c4"></a> 4.2. Canvas de Proposta de Valor
 
 &nbsp;&nbsp;&nbsp;&nbsp;Um Canvas de Proposta de Valor é basicamente um mapa visual que ajuda a entender melhor o que torna um produto ou serviço valioso para os clientes. Imagine como um guia que organiza informações importantes sobre quem são seus clientes, o que eles precisam, e como seu produto ou serviço resolve seus problemas ou traz benefícios. É como uma caixa de ferramentas que permite às equipes reunirem suas ideias e pensarem de forma criativa sobre como podem oferecer algo especial aos clientes.
 
@@ -75,7 +94,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;A partir do nosso Canvas de Proposta de Valor (CPV), determinamos essencialmente como o nosso produto ou serviço cria valor para os clientes. Isso inclui entender quem são os nossos clientes-alvo, quais são suas necessidades e desejos, e como o produto ou serviço oferecido atende a essas necessidades de uma forma única e convincente. Além disso, o CPV também nos ajuda a identificar como o nosso produto ou serviço se diferencia da concorrência e quais são os principais benefícios percebidos pelos clientes. 
 
-### <a name="c5"></a> 2.3. Análise de Benchmarking
+### <a name="c5"></a> 4.3. Análise de Benchmarking
 &nbsp;&nbsp;&nbsp;&nbsp;O objetivo do benchmarking é identificar oportunidades de melhoria, entender onde a organização se posiciona em relação aos concorrentes ou referências do setor e buscar maneiras de implementar mudanças positivas para aumentar a eficiência, qualidade e competitividade.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Considerando a proposta da Thrive, nós realizamos um Benchmarking para identificar os principais pontos com relação a como outras empresas se posicionam no mercado. Nossa análise considerou 8 pontos: Tecnologia Utilizada, Transparência e Prestação de Contas, Acesso Equitativo à Educação, Sustentabilidade Financeira, Segurança de Dados, Impacto Social, Eficiência Operacional e Reputação e Credibilidade. Comparamos a Thrive com a Kiva, ScholarshipOwl, Scholarship America e Stake Together.
@@ -145,7 +164,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;É possível identificar que a Thrive possui uma plataforma mais transparente e segura do que as outras já existentes no mercado, além disso, apresenta uma eficiência operacional maior por ser um processo automatizado. O principal ponto que seria um problema para a Thrive é a falta de reputação e credibilidade, porém ela se sobressai dessa situação ao realizar a parceria com as universidades estabelecendo uma conexão e validando a nossa reputação.
 
-### <a name="c6"></a> 2.4. Lean Canvas
+### <a name="c6"></a> 4.4. Lean Canvas
 
 &nbsp;&nbsp;&nbsp;&nbsp;O Lean Canvas é uma ferramenta simplificada de planejamento estratégico, especialmente útil para startups e projetos em estágios iniciais. No contexto do Lean Canvas de Proposta de Valor, o objetivo é destacar os principais elementos da proposta de valor de um produto ou serviço de forma concisa e direta. O canvas é dividido em nove blocos, que capturam os aspectos essenciais do negócio, como os segmentos de clientes, problemas enfrentados por eles, soluções oferecidas, vantagens competitivas e canais de distribuição.
 
