@@ -14,13 +14,13 @@
 
 [2. Análise de Mercado](#c2)
 
-[2.1. Análise SWOT](#c3)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Análise SWOT](#c3)
 
-[2.2. Canvas de Proposta de Valor](#c4)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Canvas de Proposta de Valor](#c4)
 
-[2.3. Análise de Benchmarking](#c5)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Análise de Benchmarking](#c5)
 
-[2.4. Lean Canvas](#c6)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.4. Lean Canvas](#c6)
 
 [Nosso Time](#cx)
 
