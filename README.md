@@ -12,17 +12,17 @@
 ## Cenário Global
 &nbsp;&nbsp;&nbsp;&nbsp;No panorama educacional global, uma grande quantidade de atores e estruturas desempenham papéis cruciais na promoção do acesso à educação e no desenvolvimento dos estudantes. Desde a educação inicial até o ensino superior, o sistema educacional mundial é uma rede complexa de instituições, governos, professores e alunos, todos buscando realizar o direito universal à educação.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Na base da pirâmide educacional estão a educação primária e secundária, estágios fundamentais para o crescimento cognitivo e social das crianças e adolescentes. Nessa fase que as bases são estabelecidas para suas jornadas educacionais, preparando-os não apenas para o próximo nível de ensino, mas também para a vida além das salas de aula.
+&nbsp;&nbsp;&nbsp;&nbsp;Na base da pirâmide educacional estão a educação primária e secundária, estágios fundamentais para o crescimento cognitivo e social das crianças e adolescentes. Nessa fase que os fundamentos são estabelecidas para suas jornadas educacionais, preparando-os não apenas para o próximo nível de ensino, mas também para a vida além das salas de aula.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Organizações internacionais, como a UNESCO e o Banco Mundial, desempenham um papel crucial na definição de políticas e na alocação de recursos para promover a educação em todo o mundo. No entanto, apesar dos esforços, desafios persistentes, como a falta de acesso a recursos educacionais adequados e a disparidade socioeconômica dos países que pode ser observada na D.I.T, onde os países do Sul se inserem de forma mais demorada no âmbito da inovação tecnológica, ficando com uma defasagem enorme e atuando como fornecedores de matéria-prima. Essas problemáticas continuam a ser obstáculos significativos para o pleno desenvolvimento do sistema educacional global.
+&nbsp;&nbsp;&nbsp;&nbsp;Organizações internacionais, como a UNESCO e o Banco Mundial, desempenham um papel crucial na definição de políticas e na alocação de recursos para promover a educação em todo o mundo. No entanto, apesar dos esforços, desafios persistentes, como a falta de acesso a recursos educacionais adequados e a desigualdade socioeconômica dos países. Tal desparidade é observável na D.I.T, onde os países do Sul se inserem de forma mais demorada no âmbito da inovação tecnológica, ficando com uma defasagem enorme e atuando como fornecedores de matéria-prima. Essas problemáticas continuam a ser obstáculos significativos para o pleno desenvolvimento do sistema educacional global.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Escolas públicas e privadas desempenham papéis distintos em diferentes partes do mundo. Enquanto as escolas públicas buscam oferecer uma educação gratuita e acessível para todos, as escolas privadas muitas vezes possuem recursos superiores e podem proporcionar uma educação mais personalizada, embora o faça por meio de mensalidades.
+&nbsp;&nbsp;&nbsp;&nbsp;Escolas públicas e privadas desempenham papéis distintos em diferentes partes do mundo. Enquanto as primeiras buscam oferecer uma educação gratuita e acessível para todos, as privadas muitas vezes possuem recursos superiores e podem proporcionar uma educação mais personalizada, embora o faça por meio de mensalidades.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Professores são os pilares da educação em todos os lugares, responsáveis por transmitir conhecimento, habilidades e valores aos estudantes. No entanto, enfrentam desafios semelhantes em muitos países, incluindo baixos salários, falta de recursos e condições de trabalho precárias, que se agravam em países emergentes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Os estudantes, independentemente de sua origem ou localização geográfica, compartilham desafios comuns em suas jornadas educacionais. Desde a falta de acesso a materiais educacionais até a pressão por desempenho acadêmico, eles enfrentam obstáculos que podem afetar seu progresso e desenvolvimento.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Neste contexto global, unindo esforços da comunidade global e o potencial da tecnologia, surgem iniciativas que visam, não apenas fornecer apoio financeiro aos estudantes, mas também promover uma educação mais inclusiva e acessível para todos, independentemente de sua origem ou condição socioeconômica. O que é um avanço significativo em direção à construção de um sistema educacional global mais justo e equitativo.
+&nbsp;&nbsp;&nbsp;&nbsp;Neste contexto global, unindo esforços da comunidade global e o potencial da tecnologia, surgem iniciativas que visam, não apenas fornecer apoio financeiro aos estudantes, mas promover uma educação mais inclusiva e acessível para todos, sem depender de sua origem ou condição socioeconômica. O que é um avanço significativo em direção à construção de um sistema educacional global mais justo e equitativo.
 
 ## Análise de Mercado
 
@@ -128,3 +128,18 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;É possível identificar que a Thrive possui uma plataforma mais transparente e segura do que as outras já existentes no mercado, além disso, apresenta uma eficiência operacional maior por ser um processo automatizado. O principal ponto que seria um problema para a Thrive é a falta de reputação e credibilidade, porém ela se sobressai dessa situação ao realizar a parceria com as universidades estabelecendo uma conexão e validando a nossa reputação.
+
+### 4. Lean Canvas
+
+&nbsp;&nbsp;&nbsp;&nbsp;O Lean Canvas é uma ferramenta simplificada de planejamento estratégico, especialmente útil para startups e projetos em estágios iniciais. No contexto do Lean Canvas de Proposta de Valor, o objetivo é destacar os principais elementos da proposta de valor de um produto ou serviço de forma concisa e direta. O canvas é dividido em nove blocos, que capturam os aspectos essenciais do negócio, como os segmentos de clientes, problemas enfrentados por eles, soluções oferecidas, vantagens competitivas e canais de distribuição.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Cada bloco do Lean Canvas de Proposta de Valor aborda uma área específica que contribui para o entendimento completo da proposta de valor. Começando pelo problema, que descreve as dores e necessidades dos clientes-alvo, a solução, que destaca como o produto ou serviço resolve esses problemas de forma única e eficaz. Em seguida, são abordados os segmentos de clientes, canais de distribuição, fluxo de receita, recursos-chave, atividades-chave, parceiros-chave, custos-chave, vantagem injusta.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Ao preencher o Lean Canvas de Proposta de Valor, é necessário ser conciso e focado, identificando claramente os elementos essenciais de sua proposta de valor e destacando as áreas-chave que exigem atenção e desenvolvimento. Isso permite uma visão holística e estratégica do negócio, facilitando a tomada de decisões informadas e o planejamento eficaz à medida que o projeto avança.
+
+<div align="center">
+   <img src="assets/leanCanvas.png" width="70%">
+</div>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A partir do nosso Lean Canvas, determinamos essencialmente como o nosso projeto ou negócio cria valor para os clientes e para a empresa. Nós identificamos claramente os segmentos de clientes-alvo, seus problemas ou necessidades específicas, e como nosso produto ou serviço resolve esses problemas de uma forma única e eficaz. Além disso, o Lean Canvas nos ajuda a mapear os principais canais de distribuição, parcerias-chave e fontes de receita, garantindo que tenhamos uma compreensão abrangente de como podemos alcançar e monetizar os clientes. Em resumo, o Lean Canvas é uma ferramenta valiosa que nos permite planejar e comunicar claramente nossa estratégia de negócios, ajudando-nos a maximizar nossas chances de sucesso no mercado.
