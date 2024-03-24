@@ -14,13 +14,15 @@
 
 [2. Análise de Mercado](#c2)
 
-[2.1. Análise SWOT](#c3)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Análise SWOT](#c3)
 
-[2.2. Canvas de Proposta de Valor](#c4)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Canvas de Proposta de Valor](#c4)
 
-[2.3. Análise de Benchmarking](#c5)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Análise de Benchmarking](#c5)
 
-[2.4. Lean Canvas](#c6)
+&nbsp;&nbsp;&nbsp;&nbsp;[2.4. Lean Canvas](#c6)
+
+[Nosso Time](#cx)
 
 
 ## <a name="c1"></a> 1. Cenário Global
@@ -157,3 +159,50 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;A partir do nosso Lean Canvas, determinamos essencialmente como o nosso projeto ou negócio cria valor para os clientes e para a empresa. Nós identificamos claramente os segmentos de clientes-alvo, seus problemas ou necessidades específicas, e como nosso produto ou serviço resolve esses problemas de uma forma única e eficaz. Além disso, o Lean Canvas nos ajuda a mapear os principais canais de distribuição, parcerias-chave e fontes de receita, garantindo que tenhamos uma compreensão abrangente de como podemos alcançar e monetizar os clientes. Em resumo, o Lean Canvas é uma ferramenta valiosa que nos permite planejar e comunicar claramente nossa estratégia de negócios, ajudando-nos a maximizar nossas chances de sucesso no mercado.
+
+### <a name="cx"></a> Nosso Time
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vinicius-testa-passos/">
+        <img src="https://github.com/VinTesta.png" width="100px;" alt="profile image"/><br>
+        <sub>
+          <b>Vinicius Testa</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gabriel-martins-578178245/">
+        <img src="https://github.com/GabrielHMA01.png" width="100px;" alt="profile image"/><br>
+        <sub>
+          <b>Gabriel Martins</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center"> 
+      <a href="https://www.linkedin.com/in/leonardo-andriolo/">
+        <img src="https://github.com/LeonardoAndriolo.png" width="100px;" alt="profile image"/><br>
+        <sub>
+          <b>Leonardo Andriolo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yasmim-passos/">
+        <img src="https://github.com/YasmimPassos.png" width="100px;" alt="profile image"/><br>
+        <sub>
+          <b>Yasmim Passos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/viniciussavian/">
+        <img src="https://github.com/ViniciusSavian.png" width="100px;" alt="profile image"/><br>
+        <sub>
+          <b>Vinicius Savian</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
