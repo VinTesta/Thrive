@@ -8,8 +8,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;A thrive é uma plataforma que se utiliza da tecnologia account abstraction, na qual as universidades teriam a possibilidade de criar perfis para receberem investimentos destinados a bolsas de estudos. A plataforma possibilita o cadastro de doadores físicos e jurídicos que seriam capazes de direcionar fundos para a universidade que os alocaria da melhor forma para seus alunos de acordo com seu desempenho acadêmico e desenvolvimento de soft skills.
 
+## Sumário
 
-## Cenário Global
+[1. Cenário Global](#c1)
+
+[2. Análise de Mercado](#c2)
+
+[2.1. Análise SWOT](#c3)
+
+[2.2. Canvas de Proposta de Valor](#c4)
+
+[2.3. Análise de Benchmarking](#c5)
+
+[2.4. Lean Canvas](#c6)
+
+
+## <a name="c1"></a> 1. Cenário Global
 &nbsp;&nbsp;&nbsp;&nbsp;No panorama educacional global, uma grande quantidade de atores e estruturas desempenham papéis cruciais na promoção do acesso à educação e no desenvolvimento dos estudantes. Desde a educação inicial até o ensino superior, o sistema educacional mundial é uma rede complexa de instituições, governos, professores e alunos, todos buscando realizar o direito universal à educação.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Na base da pirâmide educacional estão a educação primária e secundária, estágios fundamentais para o crescimento cognitivo e social das crianças e adolescentes. Nessa fase que os fundamentos são estabelecidas para suas jornadas educacionais, preparando-os não apenas para o próximo nível de ensino, mas também para a vida além das salas de aula.
@@ -24,13 +38,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Neste contexto global, unindo esforços da comunidade global e o potencial da tecnologia, surgem iniciativas que visam, não apenas fornecer apoio financeiro aos estudantes, mas promover uma educação mais inclusiva e acessível para todos, sem depender de sua origem ou condição socioeconômica. O que é um avanço significativo em direção à construção de um sistema educacional global mais justo e equitativo.
 
-## Análise de Mercado
+## <a name="c2"></a> 2. Análise de Mercado
 
 &nbsp;&nbsp;&nbsp;&nbsp;À partir da análise do problema, valemos-se de algumas ferramentas para identificar o mercado no qual estamos inseridos e, assim, fazer um posicionamento estrátégico, apresentando uma proposta de valor única e etendendo o que nosso cliente realmente precisa. Além disso foi possível entender os riscos e ameaças que estão rodeiam a solução, assim pode-se preparar meelhor para eventualidades. Segue uma descrição de cada uma e seus respectivos templates.
 
 
 
-### 1. Análise SWOT
+### <a name="c3"></a> 2.1. Análise SWOT
 &nbsp;&nbsp;&nbsp;&nbsp;A matriz SWOT é uma ferramenta de planejamento estratégico que ajuda as empresas na tomada de decisão. Esta metodologia divide-se em aspectos internos e externos, compreendendo forças (strengths) e fraquezas (weaknesses) para o ambiente interno, e oportunidades (opportunities) e ameaças (threats) para o externo, que têm por objetivo identificar os principais pontos de influência que afetam a empresa para uma clareza melhor de quais são os fatores que estão sob seu controle (internos) e os que não estão (externos).
 
 &nbsp;&nbsp;&nbsp;&nbsp;Os aspectos externos se situam na esfera do que é praticamente incontrolável pela empresa, ao dependerem do meio em que ela está inserida e até mesmo, algumas vezes, do ambiente global. Desse modo, oportunidades são transformações que ocorrem no mercado e podem ser aproveitadas pela empresa pela tomada de um posicionamento mais favorável diante do que está ocorrendo. Em contrapartida, surgem as ameaças, as quais são fatores exógenos que colocam a empresa em uma situação de risco ou proporcionam maiores desafios para um bom desempenho mercantil.
@@ -46,7 +60,7 @@
 
 
 
-### 2. Canvas de Proposta de Valor
+### <a name="c4"></a> 2.2. Canvas de Proposta de Valor
 
 &nbsp;&nbsp;&nbsp;&nbsp;Um Canvas de Proposta de Valor é basicamente um mapa visual que ajuda a entender melhor o que torna um produto ou serviço valioso para os clientes. Imagine como um guia que organiza informações importantes sobre quem são seus clientes, o que eles precisam, e como seu produto ou serviço resolve seus problemas ou traz benefícios. É como uma caixa de ferramentas que permite às equipes reunirem suas ideias e pensarem de forma criativa sobre como podem oferecer algo especial aos clientes.
 
@@ -59,7 +73,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;A partir do nosso Canvas de Proposta de Valor (CPV), determinamos essencialmente como o nosso produto ou serviço cria valor para os clientes. Isso inclui entender quem são os nossos clientes-alvo, quais são suas necessidades e desejos, e como o produto ou serviço oferecido atende a essas necessidades de uma forma única e convincente. Além disso, o CPV também nos ajuda a identificar como o nosso produto ou serviço se diferencia da concorrência e quais são os principais benefícios percebidos pelos clientes. 
 
-### 3. Análise de Benchmarking
+### <a name="c5"></a> 2.3. Análise de Benchmarking
 &nbsp;&nbsp;&nbsp;&nbsp;O objetivo do benchmarking é identificar oportunidades de melhoria, entender onde a organização se posiciona em relação aos concorrentes ou referências do setor e buscar maneiras de implementar mudanças positivas para aumentar a eficiência, qualidade e competitividade.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Considerando a proposta da Thrive, nós realizamos um Benchmarking para identificar os principais pontos com relação a como outras empresas se posicionam no mercado. Nossa análise considerou 8 pontos: Tecnologia Utilizada, Transparência e Prestação de Contas, Acesso Equitativo à Educação, Sustentabilidade Financeira, Segurança de Dados, Impacto Social, Eficiência Operacional e Reputação e Credibilidade. Comparamos a Thrive com a Kiva, ScholarshipOwl, Scholarship America e Stake Together.
@@ -129,7 +143,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;É possível identificar que a Thrive possui uma plataforma mais transparente e segura do que as outras já existentes no mercado, além disso, apresenta uma eficiência operacional maior por ser um processo automatizado. O principal ponto que seria um problema para a Thrive é a falta de reputação e credibilidade, porém ela se sobressai dessa situação ao realizar a parceria com as universidades estabelecendo uma conexão e validando a nossa reputação.
 
-### 4. Lean Canvas
+### <a name="c6"></a> 2.4. Lean Canvas
 
 &nbsp;&nbsp;&nbsp;&nbsp;O Lean Canvas é uma ferramenta simplificada de planejamento estratégico, especialmente útil para startups e projetos em estágios iniciais. No contexto do Lean Canvas de Proposta de Valor, o objetivo é destacar os principais elementos da proposta de valor de um produto ou serviço de forma concisa e direta. O canvas é dividido em nove blocos, que capturam os aspectos essenciais do negócio, como os segmentos de clientes, problemas enfrentados por eles, soluções oferecidas, vantagens competitivas e canais de distribuição.
 
