@@ -192,7 +192,7 @@
       <a href="https://www.linkedin.com/in/yasmim-passos/">
         <img src="https://github.com/YasmimPassos.png" width="100px;" alt="profile image"/><br>
         <sub>
-          <b>Yasmin Passos</b>
+          <b>Yasmim Passos</b>
         </sub>
       </a>
     </td>
