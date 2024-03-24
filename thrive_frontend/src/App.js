@@ -1,7 +1,8 @@
 import React from 'react';
 import Input from './components/Input';
 import Button from './components/Button';
-import Tile from './components/Tile';
+import Head from './components/Heads';
+import thriveArt from '../src/assets/thriveArt2.png';
 
 
 function App() {
@@ -40,9 +41,11 @@ function App() {
 
   return (
   
-  <div className="h-full mt-10 flex flex-col items-center justify-center bg-gradient-to-b from-[#070a52] to-[#a6b6c6]">
+  <div className="h-full mt-10 flex flex-col bg-gradient-to-b from-[#070a52] to-[#a6b6c6]">
+    <Head />
     <div className="mt-10 flex flex-col max-w-4xl p-8 mx-auto rounded-lg mb-20 items-center justify-center ">
       <p className="mt-10 text-1xl text-[#a6b6c6] font-bold mb-10">SOBRE A THRIVE</p>
+      
       <h1 className="mt-10 text-8xl font-bold text-[#a6b6c6] mb-10 text-center w-2/3">Conexão que muda o mundo</h1>
       <div className="overflow-y-auto max-h-96"></div>
     </div>
@@ -54,9 +57,9 @@ function App() {
 
     <div className="h-full w-full mt-10 flex flex-col items-center justify-center">
       <div className="mt-10 flex flex-col max-w-4xl p-8 mx-auto rounded-lg mb-20 items-center justify-center">
-        <p className="mt-10 text-4xl font-bold mb-10">SOBRE A THRIVE</p>
-        <h1 className="text-2xl mb-4 text-center w-2/3">Somos uma plataforma revolucionária que possibilita aos estudantes solicitarem bolsas de estudo e o conecta com investidores.</h1>      
-        <p className="mt-10 text-3xl font-italic mb-10">"Aqui seu investimento pode mudar vidas"</p>
+        <p className="mt-10 text-4xl text-[#070a52] font-bold mb-10">SOBRE A THRIVE</p>
+        <h1 className="text-2xl mb-4 text-[#070a52] text-center w-2/3">Somos uma plataforma revolucionária que possibilita aos estudantes solicitarem bolsas de estudo e o conecta com investidores.</h1>      
+        <p className="mt-10 text-3xl text-[#070a52] italic mb-10">"Aqui seu investimento pode mudar vidas"</p>
         <Button type="Submit" name="Seja Bolsista >" />
         <Button type="Submit" name="Invista >" />
         <div className="overflow-y-auto max-h-96"></div>
