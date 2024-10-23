@@ -204,7 +204,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/gabriel-martins-578178245/">
-        <img src="https://github.com/GabrielHMA01.png" width="100px;" alt="profile image"/><br>
+        <img src="https://github.com/GabrielMartinsAlves.png" width="100px;" alt="profile image"/><br>
         <sub>
           <b>Gabriel Martins</b>
         </sub>
